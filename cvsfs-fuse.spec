@@ -1,5 +1,5 @@
 Summary:	Filesystem based on CVS
-Summary(pl.UTF-8):   System plików oparty na CVS-ie
+Summary(pl.UTF-8):	System plików oparty na CVS-ie
 Name:		cvsfs-fuse
 Version:	0.5
 Release:	1
