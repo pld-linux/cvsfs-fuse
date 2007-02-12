@@ -1,5 +1,5 @@
 Summary:	Filesystem based on CVS
-Summary(pl):	System plików oparty na CVS-ie
+Summary(pl.UTF-8):   System plikÃ³w oparty na CVS-ie
 Name:		cvsfs-fuse
 Version:	0.5
 Release:	1
@@ -16,8 +16,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Filesystem based on CVS.
 
-%description -l pl
-System plików oparty na CVS-ie.
+%description -l pl.UTF-8
+System plikÃ³w oparty na CVS-ie.
 
 %prep
 %setup -q
